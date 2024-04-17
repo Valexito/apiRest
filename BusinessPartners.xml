@@ -1,0 +1,34 @@
+<BusinessPartners>
+    <BusinessPartner>
+        <BusinessPartnerID>14028</BusinessPartnerID>
+        <FirstName>Wouter</FirstName>
+        <MiddleName>Van</MiddleName>
+        <LastName>Amersfoort</LastName>
+        <DateOfBirth>28/02/1992</DateOfBirth>
+        <MobileNo>+31-54985198614</MobileNo>
+    </BusinessPartner>
+    <BusinessPartner>
+        <BusinessPartnerID>9876</BusinessPartnerID>
+        <FirstName>Maria</FirstName>
+        <MiddleName>Lopez</MiddleName>
+        <LastName>Garcia</LastName>
+        <DateOfBirth>15/07/1985</DateOfBirth>
+        <MobileNo>+34-671234567</MobileNo>
+    </BusinessPartner>
+    <BusinessPartner>
+        <BusinessPartnerID>3254</BusinessPartnerID>
+        <FirstName>John</FirstName>
+        <MiddleName>Robert</MiddleName>
+        <LastName>Doe</LastName>
+        <DateOfBirth>03/11/1978</DateOfBirth>
+        <MobileNo>+1-5558765432</MobileNo>
+    </BusinessPartner>
+    <BusinessPartner>
+        <BusinessPartnerID>7451</BusinessPartnerID>
+        <FirstName>Anna</FirstName>
+        <MiddleName>Marie</MiddleName>
+        <LastName>Smith</LastName>
+        <DateOfBirth>20/09/1990</DateOfBirth>
+        <MobileNo>+44-7812345678</MobileNo>
+    </BusinessPartner>
+</BusinessPartners>
